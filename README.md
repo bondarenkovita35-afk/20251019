@@ -1,20 +1,22 @@
-Detta �r en enkelt konsolapplikation som hanterar produkter. Programet �r skrivet i C# och best�r av tre projekt.
+Detta är en enkelt konsolapplikation som hanterar produkter. Programet är skrivet i C# och består av tre projekt.
 
-INFRASTRUCTURE: inneh�ller modeller och klasser f�r produkter.
-PRESENTATIONCONSOLEAPP: konsolprogrammet d�r anv�ndaren kan l�gga till och visa produkter.
-PRODUCTAPP.TEST: enhetstester f�r att testa funktionerna.
+INFRASTRUCTURE: innehåller modeller och klasser för produkter.
+PRESENTATIONCONSOLEAPP: konsolprogrammet där användaren kan lägga till och visa produkter.
+PRODUCTAPP.TEST: enhetstester för att testa funktionerna.
 
 Funktioner:
-- L�gg till produkt(namn och pris)
+- Lägg till produkt(namn och pris)
 - Visa alla produkter
-- L�s produkter fr�n textfil (products.txt)
+- Läs produkter från textfil (products.txt)
 - Spara produkter till Json-fil (products.json)
 
-Hur man k�r:
-Starta programmet fr�n Visual Studio.
-V�lj et alternativ i menyn.
-F�lj instruktionerna i konsolen.
+Hur man kör:
+Starta programmet från Visual Studio.
+Välj et alternativ i menyn.
+Följ instruktionerna i konsolen.
 
 Test:
-Projektet anv�nder xUnit f�r tester. 
-Tester kan k�ras via Test Explorer i Visual Studio.
+Projektet använder xUnit för tester. 
+Tester kan köras via Test Explorer i Visual Studio.
+
+**Författare:** Vitaliia Sivakova
